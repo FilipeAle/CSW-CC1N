@@ -1,0 +1,19 @@
+h2{
+    display: inline-block;
+    margin: 10px;
+    padding: 26px;
+    background-color: grey;
+    border: 7px solid red;
+    outline: 6px solid blue
+
+}
+
+.caixa2{
+    display: inline-block;
+    margin: 10px;
+    padding: 26px;
+    background-color: grey;
+    border: 10px solid blue;
+    outline: 6px solid red
+
+}
